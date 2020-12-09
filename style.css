@@ -1,0 +1,124 @@
+ body {
+     text-align: center;
+     background-color: green;
+     background-repeat: no-repeat;
+     font-size: 20px;
+
+ }
+
+ #code {
+     width: 500px;
+     border-radius: 50%;
+ }
+
+ h1 {
+     text-shadow: 2px 2px #FFFF00;
+     font-size: 40px;
+ }
+
+ #write {
+     padding: 25px;
+     font-size: 20px;
+     text-align: center
+ }
+
+ ul {
+     margin-top: 0px;
+     top: 0px;
+     list-style: none;
+     position: fixed;
+     z-index: 10;
+     cursor: pointer;
+     width: 100%;
+     color: white;
+     background-color: lightgreen;
+ }
+
+ li {
+     padding-right: 20px;
+     padding-bottom: 20px;
+     padding-left: 20px;
+     font-size: 14px;
+     display: inline;
+     color: white;
+ }
+
+ li:hover {
+     background-color: cornflowerblue;
+     cursor: pointer;
+     font-size: 25px;
+     text-decoration-color: green;
+
+ }
+
+ button {
+     background-color: #4CAF50;
+     border: none;
+     color: white;
+     padding: 15px 32px;
+     text-align: center;
+     display: inline-block;
+     font-size: 25px;
+ }
+
+ html {
+     scroll-behavior: smooth;
+ }
+
+ img {
+     width: 450px;
+     margin: 35px;
+     border-width: 10px;
+     border-color: red;
+     border-style: solid;
+     transition: transform .2s;
+ }
+
+ img : hover {
+     transform: scale(0.9);
+
+ }
+
+ a {
+     font-size: 20px;
+     text-decoration: underline !important;
+     font-family: cursive !important;
+ }
+
+ div {
+     font-size: 40px;
+     font-weight: bold;
+ }
+
+ #line {
+     height: 6px;
+     width: 100%;
+     background-color: black;
+     margin: 10px;
+ }
+.container-fluid{
+    background-color: chartreuse;
+}
+.container{
+    background-color:cyan;
+}
+#start {
+    background-color: aqua;
+}
+#Reviews {
+    background-color: aqua;
+}
+#Work {
+    background-color: aqua;
+}
+#Inspiration {
+    background-color: aqua;
+}
+#Contact {
+    background-color: aqua;
+}
+#advaitt {font-size: 25px ;
+font-family:fantasy;
+}
+#advaitt:hover {cursor :auto;}
+
